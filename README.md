@@ -1,2 +1,2 @@
 # jenkins-test
-jenkins test 5
+jenkins test 6
